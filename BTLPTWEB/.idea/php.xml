@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/laravel/slack-notification-channel" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/laravel/nexmo-notification-channel" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/beyondcode/laravel-dump-server" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/symfony/contracts" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/zendframework/zend-diactoros" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/intervention/image" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/darryldecode/cart" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/composer" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/unisharp/laravel-filemanager" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/php-http/promise" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/php-http/httplug" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/php-http/guzzle6-adapter" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/lcobucci/jwt" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/nexmo/client" />
+      <path value="$PROJECT_DIR$/SHOPKMA/vendor/doctrine/instantiator" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings load_method="CUSTOM_LOADER" custom_loader_path="$PROJECT_DIR$/SHOPKMA/vendor/autoload.php" />
+    </phpunit_settings>
+  </component>
+</project>
